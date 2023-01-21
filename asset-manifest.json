@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vote/static/css/main.4962ce89.css",
-    "main.js": "/vote/static/js/main.91ce55dc.js",
+    "main.js": "/vote/static/js/main.d53a700e.js",
     "static/media/bpg-banner-caps-webfont.svg": "/vote/static/media/bpg-banner-caps-webfont.21d62c4353e5f2dfbf16.svg",
     "static/media/alk-rex-bold-webfont.svg": "/vote/static/media/alk-rex-bold-webfont.f46c4f771542ae2c524e.svg",
     "static/media/alk-rex-bold-webfont.eot": "/vote/static/media/alk-rex-bold-webfont.e173fe77c5e0bec5475a.eot",
@@ -14,10 +14,10 @@
     "static/media/alk-rex-bold-webfont.woff2": "/vote/static/media/alk-rex-bold-webfont.216b9834b45c9ff1336c.woff2",
     "index.html": "/vote/index.html",
     "main.4962ce89.css.map": "/vote/static/css/main.4962ce89.css.map",
-    "main.91ce55dc.js.map": "/vote/static/js/main.91ce55dc.js.map"
+    "main.d53a700e.js.map": "/vote/static/js/main.d53a700e.js.map"
   },
   "entrypoints": [
     "static/css/main.4962ce89.css",
-    "static/js/main.91ce55dc.js"
+    "static/js/main.d53a700e.js"
   ]
 }
