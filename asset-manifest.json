@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ioane-stacks.github.io/vote/static/css/main.98f2f535.css",
-    "main.js": "/ioane-stacks.github.io/vote/static/js/main.a5755d4c.js",
+    "main.js": "/ioane-stacks.github.io/vote/static/js/main.91ce55dc.js",
     "static/media/bpg-banner-caps-webfont.svg": "/ioane-stacks.github.io/vote/static/media/bpg-banner-caps-webfont.21d62c4353e5f2dfbf16.svg",
     "static/media/alk-rex-bold-webfont.svg": "/ioane-stacks.github.io/vote/static/media/alk-rex-bold-webfont.f46c4f771542ae2c524e.svg",
     "static/media/alk-rex-bold-webfont.eot": "/ioane-stacks.github.io/vote/static/media/alk-rex-bold-webfont.e173fe77c5e0bec5475a.eot",
@@ -14,10 +14,10 @@
     "static/media/alk-rex-bold-webfont.woff2": "/ioane-stacks.github.io/vote/static/media/alk-rex-bold-webfont.216b9834b45c9ff1336c.woff2",
     "index.html": "/ioane-stacks.github.io/vote/index.html",
     "main.98f2f535.css.map": "/ioane-stacks.github.io/vote/static/css/main.98f2f535.css.map",
-    "main.a5755d4c.js.map": "/ioane-stacks.github.io/vote/static/js/main.a5755d4c.js.map"
+    "main.91ce55dc.js.map": "/ioane-stacks.github.io/vote/static/js/main.91ce55dc.js.map"
   },
   "entrypoints": [
     "static/css/main.98f2f535.css",
-    "static/js/main.a5755d4c.js"
+    "static/js/main.91ce55dc.js"
   ]
 }
